@@ -1,5 +1,5 @@
 # Node modules (instalados pelo npm/yarn)
-node_modules/
+node_modules
 
 # Arquivos gerados pelo Cypress
 cypress/screenshots/
