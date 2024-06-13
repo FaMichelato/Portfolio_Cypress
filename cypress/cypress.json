@@ -1,0 +1,5 @@
+{
+    "baseUrl": "http://vr.com.br", 
+    "integrationFolder": "cypress/integration",
+    "supportFile": "cypress/support/index.js"
+  }
