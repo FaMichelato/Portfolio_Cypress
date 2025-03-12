@@ -9,6 +9,8 @@ cypress.json: Arquivo de configuração do Cypress.</br>
 
 Neste demostrativo realizo testes funcionais na tela de login e valido as funcionalidades da tela Admin.
 
+Lembrando que é uma amostra de como eu estruturo os testes e quais métodos utilizo!
+
 ## Execução
 
 Instalação das dependências
