@@ -1,0 +1,15 @@
+{
+  "name": "portfolio_cypress",
+  "version": "1.0.0",
+  "description": "Este é um projeto de testes automatizados utilizando Cypress para testar a aplicação OrangeHRM.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^14.1.0"
+  }
+}
