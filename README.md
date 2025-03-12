@@ -1,11 +1,13 @@
-# Desafio técnico
+# Portfólio técnico
 
-Este é um projeto de testes automatizados utilizando Cypress para testar a aplicação VR-Front.
+Este é um projeto de testes automatizados utilizando Cypress para testar a aplicação OrangeHRM.
 
 Estrutura do Projeto
 cypress/e2e: Contém os arquivos de teste organizados em pastas e arquivos.
 cypress/support: Arquivos de suporte para comandos personalizados e configuração do Cypress.
-cypress.json: Arquivo de configuração do Cypress.# Area_Cliente - cypress tests
+cypress.json: Arquivo de configuração do Cypress.
+
+Neste demostrativo realizo testes funcionais na tela de login e valido as funcionalidades da tela Admin.
 
 ## Execução
 
